@@ -37,6 +37,8 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         text = "Hello $name! Welcome to modern World Era", fontSize = 30.sp,
         modifier = modifier
     )
+    
+    Text(text = "Pawan Kumar Pandit")
 }
 
 @Preview(showBackground = true)
