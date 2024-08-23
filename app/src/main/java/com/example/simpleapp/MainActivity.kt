@@ -43,6 +43,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     SimpleAppTheme {
-        Greeting("Android")
+        Greeting("Android Developer")
     }
 }
