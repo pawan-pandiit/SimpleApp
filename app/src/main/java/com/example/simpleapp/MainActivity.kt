@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!", fontSize = 30.sp,
+        text = "Hello $name! Welcome to modern World", fontSize = 30.sp,
         modifier = modifier
     )
 }
